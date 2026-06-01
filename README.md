@@ -1,5 +1,3 @@
-# mehrab20044
-
 # Mehrab Mohammadi
 
 Backend Developer focused on building reliable, scalable APIs.

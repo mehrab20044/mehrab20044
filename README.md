@@ -18,9 +18,19 @@
 
 ## 🧠 About
 
-Backend developer focused on **real-world scalable systems**.  
-I build APIs using Django & DRF with clean structure, security and performance in mind.  
-Experience is based on **real projects, not tutorials**.
+Backend developer focused on building **production-level REST APIs** using Django & DRF.  
+I work on systems that are **clean, scalable, and maintainable**, not just demo projects.
+
+Main focus areas:
+- Designing RESTful APIs with proper architecture
+- Writing clean and testable backend code
+- Database design and optimization (PostgreSQL)
+- Caching and async tasks using Redis & Celery
+- Containerized deployment using Docker
+- Basic CI/CD workflows with GitHub Actions
+
+I learn through **real projects and debugging real issues**, not only tutorials.  
+Currently improving system design and backend performance at a deeper level.
 
 ---
 

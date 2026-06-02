@@ -2,12 +2,10 @@
 
 # 👋 Hi, I'm Mehrab
 
-**Backend Developer | REST API Engineer | Django Enthusiast**
+**Backend Developer | Django & DRF Specialist | API Engineer**
 
-I build clean, scalable, and production-ready backend systems.  
-Focused on **real-world APIs**, **clean architecture**, and **performance**.
-
----
+I build **real-world backend systems**, not toy projects.  
+Focused on **clean architecture**, **performance**, and **scalable APIs**.
 
 <img src="https://komarev.com/ghpvc/?username=mehrab20044&style=flat-square&color=blue" />
 
@@ -16,40 +14,76 @@ Focused on **real-world APIs**, **clean architecture**, and **performance**.
 ---
 
 ## 🧠 About Me
-- 🔧 Backend-focused developer with strong REST API skills  
-- 🧩 Experience in building real-world backend projects  
-- ⚙️ Clean code, scalability, and structure matter to me  
-- 🚀 Always improving through building, breaking, and fixing
+- 🐍 Backend developer with **6+ months of hands-on Django experience**
+- 🔥 Specialized in **Django & Django REST Framework**
+- 🧩 Experience building **production-style APIs**
+- ⚙️ Strong focus on clean code, structure, and maintainability
+- 🚀 Constantly improving by building, breaking, and rebuilding systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
 ![Django REST](https://img.shields.io/badge/Django%20REST-000?style=for-the-badge&logo=django)
 
-### Database & Tools
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+
+### Background Tasks & Cache
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![Celery](https://img.shields.io/badge/Celery-000?style=for-the-badge&logo=celery)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🛒 Shop API – REST Framework
-**A clean and scalable shop backend built with Django REST Framework**
+### 🛒 Shop API (Django REST Framework)
+A **production-style e-commerce backend** built with DRF.
 
-**Features:**
+**Key Features:**
 - JWT Authentication
 - User & Product Management
 - Cart & Order System
-- Clean architecture & modular structure
+- PostgreSQL support
+- Redis caching
+- Celery background tasks
+- Dockerized setup
+- Nginx-ready deployment
+- Clean & modular architecture
 
 🔗 Repository:  
 👉 https://github.com/mehrab20044/shop-api-rest-framework
+
+---
+
+### 📦 Blob Storage API
+Backend system for managing file uploads and storage.
+
+**Highlights:**
+- Secure file handling
+- Django-based architecture
+- Scalable structure
+
+---
+
+### ✅ Todo API
+A clean RESTful Todo application.
+
+**Highlights:**
+- CRUD operations
+- REST principles
+- Lightweight and maintainable
 
 ---
 
@@ -71,6 +105,7 @@ Focused on **real-world APIs**, **clean architecture**, and **performance**.
 
 <div align="center">
 
-**“Code is not just about working — it’s about being right.”**
+**"Backend development is not about writing code —  
+it's about designing systems that survive real usage."**
 
 </div>

@@ -67,7 +67,7 @@ Built with Django, DRF, PostgreSQL, Redis, Docker
 
 ## 📫 Contact
 
-- 📧 Email: mehrab.dev@gmail.com  
+- 📧 Email: mehrab.5511.m3709@gmail.com  
 - 🌐 GitHub: https://github.com/mehrab20044  
 
 ---

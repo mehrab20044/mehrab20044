@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=230&section=header&text=Mehrab%20Mohammadi&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=200&section=header&text=Backend%20Developer&fontSize=38&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Backend Developer | Django & DRF</h2>

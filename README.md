@@ -1,111 +1,123 @@
 <div align="center">
 
-# 👋 Hi, I'm Mehrab
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Django+%26+DRF+Engineer;REST+API+%7C+Scalable+Backends;From+Idea+to+Production)
 
-**Backend Developer | Django & DRF Specialist | API Engineer**
-
-I build **real-world backend systems**, not toy projects.  
-Focused on **clean architecture**, **performance**, and **scalable APIs**.
-
-<img src="https://komarev.com/ghpvc/?username=mehrab20044&style=flat-square&color=blue" />
+![GitHub followers](https://img.shields.io/github/followers/mehrab20044?style=for-the-badge&color=00e5ff)
+![GitHub stars](https://img.shields.io/github/stars/mehrab20044?style=for-the-badge&color=00e5ff)
+![Profile views](https://komarev.com/ghpvc/?username=mehrab20044&style=for-the-badge&color=00e5ff)
 
 </div>
 
 ---
 
-## 🧠 About Me
-- 🐍 Backend developer with **6+ months of hands-on Django experience**
-- 🔥 Specialized in **Django & Django REST Framework**
-- 🧩 Experience building **production-style APIs**
-- ⚙️ Strong focus on clean code, structure, and maintainability
-- 🚀 Constantly improving by building, breaking, and rebuilding systems
+## 👤 Mehrab Mohammadi
+
+<div align="center">
+
+**Backend Developer · Django & DRF · REST API Engineer**
+
+I build real backend systems with a production mindset.  
+Clean architecture, scalability, and maintainability are my priorities.
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Professional Summary
 
-### Backend & APIs
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/Django%20REST-000?style=for-the-badge&logo=django)
+- Backend developer with **6+ months** hands-on experience in Django & DRF  
+- Built real-world backend projects: **Shop API, Blob Storage, Todo API**  
+- Strong understanding of **RESTful API design principles**  
+- Experience with **PostgreSQL** and **SQLite**  
+- Practical (basic) experience with **Redis** and **Celery**  
+- Familiar with **Docker**, **Nginx**, and deployment workflows  
+- Comfortable working in **Linux** environments  
+- Confident with **Git** and **GitHub**  
+- Focused on clean, scalable, and maintainable backend architecture  
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend
+![Python](https://skillicons.dev/icons?i=python)
+![Django](https://skillicons.dev/icons?i=django)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-### Background Tasks & Cache
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
-![Celery](https://img.shields.io/badge/Celery-000?style=for-the-badge&logo=celery)
+### Cache & Background Tasks
+![Redis](https://skillicons.dev/icons?i=redis)
+![Celery](https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛒 Shop API (Django REST Framework)
-A **production-style e-commerce backend** built with DRF.
+### 🛒 Shop API — Django REST Framework
 
-**Key Features:**
-- JWT Authentication
-- User & Product Management
-- Cart & Order System
-- PostgreSQL support
-- Redis caching
-- Celery background tasks
-- Dockerized setup
-- Nginx-ready deployment
-- Clean & modular architecture
+Production-style e-commerce backend:
 
-🔗 Repository:  
-👉 https://github.com/mehrab20044/shop-api-rest-framework
+- JWT authentication & authorization  
+- Product, Cart, Order, and Payment modules  
+- PostgreSQL as main database  
+- Redis for basic caching  
+- Celery for simple background tasks  
+- Docker & Docker Compose setup  
+- Nginx-ready deployment  
+- Modular and clean architecture  
+
+🔗 https://github.com/mehrab20044/shop-api-rest-framework
 
 ---
 
 ### 📦 Blob Storage API
-Backend system for managing file uploads and storage.
 
-**Highlights:**
-- Secure file handling
-- Django-based architecture
-- Scalable structure
+Backend service for file upload and management:
+
+- Secure file upload handling  
+- Django-based backend  
+- Clean and extendable structure  
 
 ---
 
 ### ✅ Todo API
-A clean RESTful Todo application.
 
-**Highlights:**
-- CRUD operations
-- REST principles
-- Lightweight and maintainable
+Minimal and clean RESTful API:
+
+- Django REST Framework  
+- Full CRUD functionality  
+- Proper API standards  
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrab20044&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehrab20044&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrab20044&theme=dark&hide_border=true" width="48%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrab20044&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mehrab20044
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehrab20044&theme=tokyonight)
 
 ---
 
-<div align="center">
+## 📬 Contact
 
-**"Backend development is not about writing code —  
-it's about designing systems that survive real usage."**
+- 📧 Email: **mehrab20044@gmail.com**
+- 📍 Location: **Iran**
+- 🐙 GitHub: https://github.com/mehrab20044
 
-</div>
+---
+
+### 💭 Philosophy
+
+> Good backend code is invisible.  
+> If users notice it, something is wrong.

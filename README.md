@@ -71,9 +71,8 @@ Experience is based on **real projects, not tutorials**.
 
 ## 📫 Contact
 
-- 📧 Email: mehrab.dev@gmail.com  
-- 💬 Telegram: https://t.me/yourusername  
-- 📸 Instagram: https://instagram.com/yourusername  
+- 📧 Email: mehrab.5511.m3709@gmail.com  
+- 📸 Instagram: https://instagram.com/mehrab_mohammadi_09  
 - 🌐 GitHub: https://github.com/mehrab20044
 
 ---

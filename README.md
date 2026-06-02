@@ -1,32 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f00ff&height=200&section=header&text=Backend%20Developer&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7f00ff&height=210&section=header&text=Python%20Backend%20Engineer&fontSize=36&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Backend Developer | Django & DRF</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=900&color=7F00FF&center=true&vCenter=true&width=650&lines=Django+%26+DRF+Backend+Developer;Building+Scalable+REST+APIs;Clean+Architecture+%7C+Production+Code;Docker+%7C+CI%2FCD+%7C+Redis+%7C+PostgreSQL" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehrab20044&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Framework-success?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/DRF-API-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-DevOps-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-316192?style=for-the-badge&logo=postgresql" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-Backend developer with **6+ months of hands-on experience**.  
-Focused on building **clean, scalable, production-ready REST APIs**.  
-Experience comes from **real projects**, not tutorials.
+Backend developer focused on **real-world scalable systems**.  
+I build APIs using Django & DRF with clean structure, security and performance in mind.  
+Experience is based on **real projects, not tutorials**.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Area | Technologies |
-|-----|--------------|
-| Backend | Python, Django, Django REST Framework |
-| Databases | PostgreSQL, SQLite |
-| Async & Cache | Redis, Celery (basic to intermediate) |
+| Area | Tools |
+|------|------|
+| Backend | Python, Django, DRF |
+| Database | PostgreSQL, SQLite |
+| Cache / Async | Redis, Celery |
 | DevOps | Docker, Nginx |
-| CI / CD | GitHub Actions |
+| CI/CD | GitHub Actions |
 | Tools | Git, GitHub |
 
 ---
@@ -34,25 +40,23 @@ Experience comes from **real projects**, not tutorials.
 ## 🚀 Projects
 
 | Project | Description |
-|-------|------------|
-| 🛒 Shop API | E-commerce backend with auth, cart, orders, payment |
-| 📁 Blob Service | File upload & media management API |
+|---------|------------|
+| 🛒 Shop API | Full e-commerce backend (auth, cart, orders, payment) |
+| 📁 Blob Service | File upload & storage API |
 | ✅ Todo API | Clean CRUD REST API |
 
-Built with Django, DRF, PostgreSQL, Redis, Docker
+---
+
+## 🔁 DevOps & CI/CD
+
+- Dockerized projects
+- GitHub Actions pipelines
+- Automated testing & deployment flow
+- Server deployment experience
 
 ---
 
-## 🔁 CI / CD Experience
-
-- GitHub Actions pipelines  
-- Automated build & test on push / PR  
-- Docker-based deployment  
-- Manual & semi-automated server deploy
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehrab20044&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -67,12 +71,13 @@ Built with Django, DRF, PostgreSQL, Redis, Docker
 
 ## 📫 Contact
 
-- 📧 Email: mehrab.5511.m3709@gmail.com  
-- 📸 Instagram: https://instagram.com/mehrab_mohammadi_09 
-- 🌐 GitHub: https://github.com/mehrab20044  
+- 📧 Email: mehrab.dev@gmail.com  
+- 💬 Telegram: https://t.me/yourusername  
+- 📸 Instagram: https://instagram.com/yourusername  
+- 🌐 GitHub: https://github.com/mehrab20044
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:0e75b6&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:0f172a&height=130&section=footer" />
 </p>
